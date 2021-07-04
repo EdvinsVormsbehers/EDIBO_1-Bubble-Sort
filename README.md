@@ -4,4 +4,4 @@ Bubble sort algorithm - take two elements of list if first element is larger tha
 
 Edvīns_EDIBO1.ipynb is created using Google Colaboratory for practice in bubble sorting. There is some diferent versions of code, that I've tried to use.
 
-https://slides.com/bejibiu_white/edibo1/edit - summary EDIBO Lesson 1 daily goals
+https://slides.com/bejibiu_white/edibo1 - summary EDIBO Lesson 1 daily goals
